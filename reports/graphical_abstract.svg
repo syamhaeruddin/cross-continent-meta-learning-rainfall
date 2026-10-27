@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="331.2pt" viewBox="0 0 792 331.2" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:c2pa="http://c2pa.org/manifest">
+ <metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpmNzE5NmExMS0wZmE2LTQ3MTUtYWViMC1mYTY4MDg5OGMwNWMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaGXp5Dm8rl4Bf66w5hp0wLwAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo1OTYyNWRjOC0wMTcwLTQxOTItYWRjYi01OGNiMjQ2MzVhNzFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo+zFRXEG5B2qVdjl7Ff5elAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggJznegxrx4zsilo7HJG3F1FI5rZSnDFi/FHIb/QQQ75qkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaEoiXoZFih1GZo6UGLALqOoAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIHkxUuFI6iyb//PvTj8fFCn8tdzvpeUrn7dd2iivRl9BZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQF1Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmY3MTk2YTExLTBmYTYtNDcxNS1hZWIwLWZhNjgwODk4YzA1Yy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjAwZjFkNWU4LTYzYTQtNGVjOS1hZjFkLWZhNGUzN2VkOTcxY3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAnOd6DGvHjOyKWjsckbcXUUjmtlKcMWL8Uchv9BBDvmqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggcZ0cr4YIbuKYsh11KBr6F5QIm8Xb9Eb+6POapYZO6sWiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgg7V8JoQEJN2Pb11zKBsDTjEozhKVUrC7lUPLY+p0nrvN0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQHIQjz+kV5gU3fbU0MWgya3rSgizZjvZyHnmntkOtQZwveEKtHiTMubuBspNdQ0n2SNJD2qIonW7twtPrWrYBV0=</c2pa:manifest>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-27T12:52:01.525641</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 331.2 
+L 792 331.2 
+L 792 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 19.296 126.144 
+L 182.304 126.144 
+Q 187.344 126.144 187.344 121.104 
+L 187.344 51.696 
+Q 187.344 46.656 182.304 46.656 
+L 19.296 46.656 
+Q 14.256 46.656 14.256 51.696 
+L 14.256 121.104 
+Q 14.256 126.144 19.296 126.144 
+z
+" clip-path="url(#pc59c029836)" style="fill: #e3f2fd; stroke: #1565c0; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 213.696 126.144 
+L 369.504 126.144 
+Q 374.544 126.144 374.544 121.104 
+L 374.544 51.696 
+Q 374.544 46.656 369.504 46.656 
+L 213.696 46.656 
+Q 208.656 46.656 208.656 51.696 
+L 208.656 121.104 
+Q 208.656 126.144 213.696 126.144 
+z
+" clip-path="url(#pc59c029836)" style="fill: #e3f2fd; stroke: #1565c0; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 19.296 219.744 
+L 182.304 219.744 
+Q 187.344 219.744 187.344 214.704 
+L 187.344 145.296 
+Q 187.344 140.256 182.304 140.256 
+L 19.296 140.256 
+Q 14.256 140.256 14.256 145.296 
+L 14.256 214.704 
+Q 14.256 219.744 19.296 219.744 
+z
+" clip-path="url(#pc59c029836)" style="fill: #e8f5e9; stroke: #2e7d32; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 213.696 219.744 
+L 369.504 219.744 
+Q 374.544 219.744 374.544 214.704 
+L 374.544 145.296 
+Q 374.544 140.256 369.504 140.256 
+L 213.696 140.256 
+Q 208.656 140.256 208.656 145.296 
+L 208.656 214.704 
+Q 208.656 219.744 213.696 219.744 
+z
+" clip-path="url(#pc59c029836)" style="fill: #e8f5e9; stroke: #2e7d32; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 187.92 86.4 
+Q 197.64 86.4 205.794752 86.4 
+" clip-path="url(#pc59c029836)" style="fill: none; stroke: #1565c0; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 200.194752 83.6 
+L 205.794752 86.4 
+L 200.194752 89.2 
+z
+" clip-path="url(#pc59c029836)" style="fill: #1565c0; stroke: #1565c0; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 187.92 180 
+Q 197.64 180 205.794752 180 
+" clip-path="url(#pc59c029836)" style="fill: none; stroke: #2e7d32; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 200.194752 177.2 
+L 205.794752 180 
+L 200.194752 182.8 
+z
+" clip-path="url(#pc59c029836)" style="fill: #2e7d32; stroke: #2e7d32; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 375.12 86.4 
+L 393.12 86.4 
+" clip-path="url(#pc59c029836)" style="fill: none; stroke: #1565c0; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 375.12 180 
+L 393.12 180 
+" clip-path="url(#pc59c029836)" style="fill: none; stroke: #2e7d32; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 393.12 86.4 
+L 393.12 133.2 
+" clip-path="url(#pc59c029836)" style="fill: none; stroke: #1565c0; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 393.12 133.2 
+L 393.12 180 
+" clip-path="url(#pc59c029836)" style="fill: none; stroke: #2e7d32; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 393.12 133.2 
+Q 401.4 133.2 408.114752 133.2 
+" clip-path="url(#pc59c029836)" style="fill: none; stroke: #546e7a; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 402.514752 130.4 
+L 408.114752 133.2 
+L 402.514752 136 
+z
+" clip-path="url(#pc59c029836)" style="fill: #546e7a; stroke: #546e7a; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 415.296 190.944 
+L 542.304 190.944 
+Q 547.344 190.944 547.344 185.904 
+L 547.344 87.696 
+Q 547.344 82.656 542.304 82.656 
+L 415.296 82.656 
+Q 410.256 82.656 410.256 87.696 
+L 410.256 185.904 
+Q 410.256 190.944 415.296 190.944 
+z
+" clip-path="url(#pc59c029836)" style="fill: #fff8e1; stroke: #f9a825; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 547.92 133.2 
+L 561.6 133.2 
+" clip-path="url(#pc59c029836)" style="fill: none; stroke: #ad1457; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 561.6 133.2 
+L 561.6 92.16 
+" clip-path="url(#pc59c029836)" style="fill: none; stroke: #ad1457; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 561.6 92.16 
+Q 566.64 92.16 570.114752 92.16 
+" clip-path="url(#pc59c029836)" style="fill: none; stroke: #ad1457; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 564.514752 89.36 
+L 570.114752 92.16 
+L 564.514752 94.96 
+z
+" clip-path="url(#pc59c029836)" style="fill: #ad1457; stroke: #ad1457; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 577.296 130.464 
+L 772.704 130.464 
+Q 777.744 130.464 777.744 125.424 
+L 777.744 58.896 
+Q 777.744 53.856 772.704 53.856 
+L 577.296 53.856 
+Q 572.256 53.856 572.256 58.896 
+L 572.256 125.424 
+Q 572.256 130.464 577.296 130.464 
+z
+" clip-path="url(#pc59c029836)" style="fill: #fce4ec; stroke: #ad1457; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 674.64 131.04 
+Q 674.64 140.4 674.64 148.194752 
+" clip-path="url(#pc59c029836)" style="fill: none; stroke: #6a1b9a; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 677.44 142.594752 
+L 674.64 148.194752 
+L 671.84 142.594752 
+z
+" clip-path="url(#pc59c029836)" style="fill: #6a1b9a; stroke: #6a1b9a; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 577.296 226.944 
+L 772.704 226.944 
+Q 777.744 226.944 777.744 221.904 
+L 777.744 155.376 
+Q 777.744 150.336 772.704 150.336 
+L 577.296 150.336 
+Q 572.256 150.336 572.256 155.376 
+L 572.256 221.904 
+Q 572.256 226.944 577.296 226.944 
+z
+" clip-path="url(#pc59c029836)" style="fill: #f3e5f5; stroke: #6a1b9a; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 19.296 316.944 
+L 772.704 316.944 
+Q 777.744 316.944 777.744 311.904 
+L 777.744 238.896 
+Q 777.744 233.856 772.704 233.856 
+L 19.296 233.856 
+Q 14.256 233.856 14.256 238.896 
+L 14.256 311.904 
+Q 14.256 316.944 19.296 316.944 
+z
+" clip-path="url(#pc59c029836)" style="fill: #fafafa; stroke: #37474f; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263238" x="396" y="17.517656" transform="rotate(-0 396 17.517656)">Cross-Network Meta-Learning Gate for Monthly Rainfall Forecast Combination</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #607d8b" x="396" y="35.866477" transform="rotate(-0 396 35.866477)">One end-to-end run: raw daily records, base-model pool, joint gate, tests. 35 stations on two climatically distinct networks.</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263238" x="100.8" y="61.51875" transform="rotate(-0 100.8 61.51875)">Australia, SILO gauges</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(22.32 82.057969)">15 rain-gauge stations, 1926-2025</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(22.32 91.165969)">Daily totals, validity mask</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(22.32 100.273969)">3 climate indices with release latency</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263238" x="291.6" y="61.51875" transform="rotate(-0 291.6 61.51875)">Pool and meta-dataset</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(216.72 82.057969)">9 base models, refit every 5 yr</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(216.72 91.165969)">+ 2 rolling climatologies</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(216.72 100.273969)">Meta-samples 1962-2014</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(216.72 109.989492)">Test 2015-2025</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263238" x="100.8" y="155.11875" transform="rotate(-0 100.8 155.11875)">Indonesia, NASA POWER grid</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(22.32 175.657969)">20 grid locations, 1981-2025</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(22.32 184.765969)">Daily totals, no missing days</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(22.32 193.873969)">6 climate indices with release latency</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263238" x="291.6" y="155.11875" transform="rotate(-0 291.6 155.11875)">Pool and meta-dataset</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(216.72 176.326406)">Same 9 models and architecture</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(216.72 184.765969)">+ 2 rolling climatologies</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(216.72 193.873969)">Meta-samples 1997-2017</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(216.72 203.589492)">Test 2018-2025</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(440.04625 98.319531)">Harmonised joint</text>
+    <text style="font-weight: 700; font-size: 8px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(448.468125 107.921719)">meta-dataset</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(418.32 117.870781)">72,520 meta-samples</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(418.32 127.363844)">35 stations</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(418.32 133.71)"/>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(418.32 144.402781)">Per sample: 12-month</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(418.32 153.246781)">scaled error history of</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(418.32 162.398039)">11 members, their current</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(418.32 171.242039)">forecasts, month, 3 shared</text>
+    <text style="font-size: 6.7px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(418.32 180.086039)">indices, horizon</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263238" x="675" y="68.71875" transform="rotate(-0 675 68.71875)">Cross-network gates</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(580.32 89.257969)">JG-E, JG-S: one gate, 35 stations</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(580.32 98.365969)">RG: region-only control</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(580.32 107.790398)">LRO: trained on one network,</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(580.32 116.581969)">   applied to the other (zero-shot)</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263238" x="675" y="165.19875" transform="rotate(-0 675 165.19875)">Evaluation</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(580.32 185.737969)">NSE per station and horizon</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(580.32 195.162398)">Diebold-Mariano tests, Holm</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(580.32 203.953969)">Against each network's own gates,</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(580.32 213.061969)">   NNLS, mean, climatology</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263238" x="396" y="248.71875" transform="rotate(-0 396 248.71875)">Findings</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(22.32 269.53875)">• Pooling helps the network with the smaller meta-sample: +0.013 NSE in Indonesia over the region-only gate (p ≤ 0.005), and is neutral in Australia</text>
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(22.32 279.04275)">• Zero-shot transfer: a gate that never saw the target network still beats its local gates at short horizons (p &lt; 0.001 in Indonesia, 0.020 in Australia)</text>
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(22.32 288.54675)">• Accuracy on held-out stations rises with the number of pooled stations and levels off at about eight</text>
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(22.32 298.05075)">• Pooling makes up for two missing regional indices: the 3-index joint gate matches the 6-index regional gate</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pc59c029836">
+   <rect x="0" y="0" width="792" height="331.2"/>
+  </clipPath>
+ </defs>
+</svg>
