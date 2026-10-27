@@ -9,6 +9,10 @@ The per-network protocol is that of the two single-network studies, whose reposi
 - Australia: [cross-station-meta-learning-monthly-rainfall](https://github.com/syamhaeruddin/cross-station-meta-learning-monthly-rainfall) (test 2015–2025, 13 evaluated stations)
 - Indonesia: [cross-station-meta-learning-indonesia-rainfall](https://github.com/syamhaeruddin/cross-station-meta-learning-indonesia-rainfall) (test 2018–2025, 20 locations)
 
+![Workflow](reports/workflow.png)
+
+*The method from the raw daily rainfall records to the reported outputs. Stages 1–4 run separately for each network; stages 5–8 pool their meta-samples.*
+
 ## Design
 
 | | Setting |

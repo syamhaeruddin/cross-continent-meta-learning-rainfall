@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="756pt" height="921.6pt" viewBox="0 0 756 921.6" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:c2pa="http://c2pa.org/manifest">
+ <metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo3ZGQ1YTZkMy0zZjhmLTQyODctYjM1Zi04ZjUyZGYxMjYyN2QAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaD3QCgtSgkw+YE0+WdTOCpsAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo1ODY1ZGVjOS02ZTIyLTQ0ZDMtODdmNS03NDRjMmM0MzZkZmRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoAuXEShLCUQzX0bpP76v4MAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggyS/CCMlx03eES2c1C3lDugdSAwg6cRssjXtoC3KQD2KkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaNSGzktgLo3k620rMRkLsHYAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIHyccuWksZC+O8xC0htBkGKuK3zHQNDzbRW+Y204ffi4ZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQF1Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjdkZDVhNmQzLTNmOGYtNDI4Ny1iMzVmLThmNTJkZjEyNjI3ZC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmQ5NjIyNDJjLWVhYmItNGE0MS05YThlLWNhMGU4ODlmZGJkNHJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDJL8IIyXHTd4RLZzULeUO6B1IDCDpxGyyNe2gLcpAPYqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggnjGROwx/ty0ZXS6LVtbckz/XvVJW9bca4EifBgvmC8SiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggrMZbHdb//ejhZi56i5C17Qq/3TllQ3Iy2A5JiP6PTPd0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQClDfWQGdlZ0m+wfhhu1PcS7+dq0wL61Xn3eHyH0Pj/9ZaTrnAebRqRRzNkEGDNo+g8HVcxf0TzgQEEFIzcAmIk=</c2pa:manifest>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-27T10:29:28.166676</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 921.6 
+L 756 921.6 
+L 756 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 6.048 114.822295 
+L 33.264 114.822295 
+L 33.264 114.814741 
+L 6.048 114.814741 
+L 6.048 114.822295 
+z
+" clip-path="url(#pf503733e6d)" style="fill: none"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 51.2568 146.70059 
+L 387.2232 146.70059 
+Q 393.2712 146.70059 393.2712 140.657311 
+L 393.2712 79.922361 
+Q 393.2712 73.879082 387.2232 73.879082 
+L 51.2568 73.879082 
+Q 45.2088 73.879082 45.2088 79.922361 
+L 45.2088 140.657311 
+Q 45.2088 146.70059 51.2568 146.70059 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #e3f2fd; stroke: #1565c0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 414.1368 146.70059 
+L 734.9832 146.70059 
+Q 741.0312 146.70059 741.0312 140.657311 
+L 741.0312 79.922361 
+Q 741.0312 73.879082 734.9832 73.879082 
+L 414.1368 73.879082 
+Q 408.0888 73.879082 408.0888 79.922361 
+L 408.0888 140.657311 
+Q 408.0888 146.70059 414.1368 146.70059 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #e8f5e9; stroke: #2e7d32; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 6.048 199.428197 
+L 33.264 199.428197 
+L 33.264 199.420643 
+L 6.048 199.420643 
+L 6.048 199.428197 
+z
+" clip-path="url(#pf503733e6d)" style="fill: none"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 51.2568 231.306492 
+L 387.2232 231.306492 
+Q 393.2712 231.306492 393.2712 225.263213 
+L 393.2712 164.528262 
+Q 393.2712 158.484984 387.2232 158.484984 
+L 51.2568 158.484984 
+Q 45.2088 158.484984 45.2088 164.528262 
+L 45.2088 225.263213 
+Q 45.2088 231.306492 51.2568 231.306492 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #e3f2fd; stroke: #1565c0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 414.1368 231.306492 
+L 734.9832 231.306492 
+Q 741.0312 231.306492 741.0312 225.263213 
+L 741.0312 164.528262 
+Q 741.0312 158.484984 734.9832 158.484984 
+L 414.1368 158.484984 
+Q 408.0888 158.484984 408.0888 164.528262 
+L 408.0888 225.263213 
+Q 408.0888 231.306492 414.1368 231.306492 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #e8f5e9; stroke: #2e7d32; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 6.048 275.72459 
+L 33.264 275.72459 
+L 33.264 275.717036 
+L 6.048 275.717036 
+L 6.048 275.72459 
+z
+" clip-path="url(#pf503733e6d)" style="fill: none"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 51.2568 320.444852 
+L 387.2232 320.444852 
+Q 393.2712 320.444852 393.2712 314.401574 
+L 393.2712 241.580066 
+Q 393.2712 235.536787 387.2232 235.536787 
+L 51.2568 235.536787 
+Q 45.2088 235.536787 45.2088 241.580066 
+L 45.2088 314.401574 
+Q 45.2088 320.444852 51.2568 320.444852 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #e3f2fd; stroke: #1565c0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 414.1368 320.444852 
+L 734.9832 320.444852 
+Q 741.0312 320.444852 741.0312 314.401574 
+L 741.0312 241.580066 
+Q 741.0312 235.536787 734.9832 235.536787 
+L 414.1368 235.536787 
+Q 408.0888 235.536787 408.0888 241.580066 
+L 408.0888 314.401574 
+Q 408.0888 320.444852 414.1368 320.444852 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #e8f5e9; stroke: #2e7d32; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 6.048 373.927869 
+L 33.264 373.927869 
+L 33.264 373.920315 
+L 6.048 373.920315 
+L 6.048 373.927869 
+z
+" clip-path="url(#pf503733e6d)" style="fill: none"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 51.2568 423.18059 
+L 387.2232 423.18059 
+Q 393.2712 423.18059 393.2712 417.137311 
+L 393.2712 341.294164 
+Q 393.2712 335.250885 387.2232 335.250885 
+L 51.2568 335.250885 
+Q 45.2088 335.250885 45.2088 341.294164 
+L 45.2088 417.137311 
+Q 45.2088 423.18059 51.2568 423.18059 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #e3f2fd; stroke: #1565c0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 414.1368 423.18059 
+L 734.9832 423.18059 
+Q 741.0312 423.18059 741.0312 417.137311 
+L 741.0312 341.294164 
+Q 741.0312 335.250885 734.9832 335.250885 
+L 414.1368 335.250885 
+Q 408.0888 335.250885 408.0888 341.294164 
+L 408.0888 417.137311 
+Q 408.0888 423.18059 414.1368 423.18059 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #e8f5e9; stroke: #2e7d32; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 219.24 147.304918 
+Q 219.24 152.215082 219.24 155.671802 
+" clip-path="url(#pf503733e6d)" style="fill: none; stroke: #37474f; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 222.04 150.071802 
+L 219.24 155.671802 
+L 216.44 150.071802 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #37474f; stroke: #37474f; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 219.24 231.91082 
+Q 219.24 233.421639 219.24 233.479015 
+" clip-path="url(#pf503733e6d)" style="fill: none; stroke: #37474f; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 222.04 227.879015 
+L 219.24 233.479015 
+L 216.44 227.879015 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #37474f; stroke: #37474f; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 219.24 321.04918 
+Q 219.24 327.847869 219.24 333.193113 
+" clip-path="url(#pf503733e6d)" style="fill: none; stroke: #37474f; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 222.04 327.593113 
+L 219.24 333.193113 
+L 216.44 327.593113 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #37474f; stroke: #37474f; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 574.56 147.304918 
+Q 574.56 152.215082 574.56 155.671802 
+" clip-path="url(#pf503733e6d)" style="fill: none; stroke: #37474f; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 577.36 150.071802 
+L 574.56 155.671802 
+L 571.76 150.071802 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #37474f; stroke: #37474f; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 574.56 231.91082 
+Q 574.56 233.421639 574.56 233.479015 
+" clip-path="url(#pf503733e6d)" style="fill: none; stroke: #37474f; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 577.36 227.879015 
+L 574.56 233.479015 
+L 571.76 227.879015 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #37474f; stroke: #37474f; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 574.56 321.04918 
+Q 574.56 327.847869 574.56 333.193113 
+" clip-path="url(#pf503733e6d)" style="fill: none; stroke: #37474f; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 577.36 327.593113 
+L 574.56 333.193113 
+L 571.76 327.593113 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #37474f; stroke: #37474f; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 219.24 423.784918 
+Q 260.82 437.382295 301.018547 450.527913 
+" clip-path="url(#pf503733e6d)" style="fill: none; stroke: #1565c0; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 296.566216 446.12601 
+L 301.018547 450.527913 
+L 294.825626 451.448635 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #1565c0; stroke: #1565c0; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 574.56 423.784918 
+Q 529.2 437.382295 485.232237 450.562327 
+" clip-path="url(#pf503733e6d)" style="fill: none; stroke: #2e7d32; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 491.400407 451.636418 
+L 485.232237 450.562327 
+L 489.792412 446.272245 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #2e7d32; stroke: #2e7d32; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 6.048 502.347541 
+L 33.264 502.347541 
+L 33.264 502.339987 
+L 6.048 502.339987 
+L 6.048 502.347541 
+z
+" clip-path="url(#pf503733e6d)" style="fill: none"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 51.2568 557.643541 
+L 734.9832 557.643541 
+Q 741.0312 557.643541 741.0312 551.600262 
+L 741.0312 459.138098 
+Q 741.0312 453.09482 734.9832 453.09482 
+L 51.2568 453.09482 
+Q 45.2088 453.09482 45.2088 459.138098 
+L 45.2088 551.600262 
+Q 45.2088 557.643541 51.2568 557.643541 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #fff8e1; stroke: #f9a825; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 393.12 558.247869 
+Q 393.12 565.424262 393.12 571.147212 
+" clip-path="url(#pf503733e6d)" style="fill: none; stroke: #37474f; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 395.92 565.547212 
+L 393.12 571.147212 
+L 390.32 565.547212 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #37474f; stroke: #37474f; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 6.048 626.990164 
+L 33.264 626.990164 
+L 33.264 626.98261 
+L 6.048 626.98261 
+L 6.048 626.990164 
+z
+" clip-path="url(#pf503733e6d)" style="fill: none"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 51.2568 698.14977 
+L 493.0632 698.14977 
+Q 499.1112 698.14977 499.1112 692.106492 
+L 499.1112 580.003672 
+Q 499.1112 573.960393 493.0632 573.960393 
+L 51.2568 573.960393 
+Q 45.2088 573.960393 45.2088 580.003672 
+L 45.2088 692.106492 
+Q 45.2088 698.14977 51.2568 698.14977 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #fce4ec; stroke: #ad1457; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 519.9768 698.14977 
+L 734.9832 698.14977 
+Q 741.0312 698.14977 741.0312 692.106492 
+L 741.0312 580.003672 
+Q 741.0312 573.960393 734.9832 573.960393 
+L 519.9768 573.960393 
+Q 513.9288 573.960393 513.9288 580.003672 
+L 513.9288 692.106492 
+Q 513.9288 698.14977 519.9768 698.14977 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #fafafa; stroke: #37474f; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 272.16 698.754098 
+Q 272.16 706.685902 272.16 713.164261 
+" clip-path="url(#pf503733e6d)" style="fill: none; stroke: #37474f; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 274.96 707.564261 
+L 272.16 713.164261 
+L 269.36 707.564261 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #37474f; stroke: #37474f; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 6.048 766.740984 
+L 33.264 766.740984 
+L 33.264 766.73343 
+L 6.048 766.73343 
+L 6.048 766.740984 
+z
+" clip-path="url(#pf503733e6d)" style="fill: none"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 51.2568 826.569443 
+L 493.0632 826.569443 
+Q 499.1112 826.569443 499.1112 820.526164 
+L 499.1112 722.020721 
+Q 499.1112 715.977443 493.0632 715.977443 
+L 51.2568 715.977443 
+Q 45.2088 715.977443 45.2088 722.020721 
+L 45.2088 820.526164 
+Q 45.2088 826.569443 51.2568 826.569443 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #f3e5f5; stroke: #6a1b9a; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 519.9768 826.569443 
+L 734.9832 826.569443 
+Q 741.0312 826.569443 741.0312 820.526164 
+L 741.0312 722.020721 
+Q 741.0312 715.977443 734.9832 715.977443 
+L 519.9768 715.977443 
+Q 513.9288 715.977443 513.9288 722.020721 
+L 513.9288 820.526164 
+Q 513.9288 826.569443 519.9768 826.569443 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #e3f2fd; stroke: #1565c0; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 499.716 771.273443 
+Q 506.52 771.273443 511.870556 771.273443 
+" clip-path="url(#pf503733e6d)" style="fill: none; stroke: #37474f; stroke-width: 1.3; stroke-linecap: round"/>
+    <path d="M 506.270556 768.473443 
+L 511.870556 771.273443 
+L 506.270556 774.073443 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #37474f; stroke: #37474f; stroke-width: 1.3; stroke-linecap: round"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 51.2568 912.686164 
+L 734.9832 912.686164 
+Q 741.0312 912.686164 741.0312 906.642885 
+L 741.0312 844.397115 
+Q 741.0312 838.353836 734.9832 838.353836 
+L 51.2568 838.353836 
+Q 45.2088 838.353836 45.2088 844.397115 
+L 45.2088 906.642885 
+Q 45.2088 912.686164 51.2568 912.686164 
+z
+" clip-path="url(#pf503733e6d)" style="fill: #fafafa; stroke: #37474f; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263238" x="393.12" y="16.585131" transform="rotate(-0 393.12 16.585131)">Cross-Network Meta-Learning Gate for Monthly Rainfall Forecast Combination</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #546e7a" x="393.12" y="33.050241" transform="rotate(-0 393.12 33.050241)">Stages 1–4 are run separately for each station network; stages 5–8 pool their meta-samples and train the cross-network gates</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #78909c" x="393.12" y="50.320745" transform="rotate(-0 393.12 50.320745)">One end-to-end run inside a single repository, from the raw daily records to the reported tests: 52 min on a 16-core desktop CPU with 12 parallel processes</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1565c0" x="219.24" y="66.476066" transform="rotate(-0 219.24 66.476066)">Australia — SILO (gauge observations)</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #2e7d32" x="567" y="66.476066" transform="rotate(-0 567 66.476066)">Indonesia — NASA POWER (reanalysis-based grid)</text>
+   </g>
+   <g id="text_6">
+    <g id="patch_34">
+     <path d="M 18.144 122.022295 
+C 20.053462 122.022295 21.884975 121.263658 23.235169 119.913464 
+C 24.585363 118.56327 25.344 116.731757 25.344 114.822295 
+C 25.344 112.912833 24.585363 111.08132 23.235169 109.731126 
+C 21.884975 108.380933 20.053462 107.622295 18.144 107.622295 
+C 16.234538 107.622295 14.403025 108.380933 13.052831 109.731126 
+C 11.702637 111.08132 10.944 112.912833 10.944 114.822295 
+C 10.944 116.731757 11.702637 118.56327 13.052831 119.913464 
+C 14.403025 121.263658 16.234538 122.022295 18.144 122.022295 
+z
+" style="fill: #37474f"/>
+    </g>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="18.144" y="117.160186" transform="rotate(-0 18.144 117.160186)">1</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 5.2px; font-family: 'DejaVu Sans'; fill: #546e7a" transform="translate(19.494984 171.010826) rotate(-90)">preprocessing</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 8.1px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263238" x="219.24" y="90.760636" transform="rotate(-0 219.24 90.760636)">1. Rainfall preprocessing</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 112.146346)">Daily rainfall, 15 stations, 1926–2025 → monthly totals (1,200 months)</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 121.116346)">Validity mask: month valid if ≥ 90% of days have an observation code</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 130.086346)">(SILO codes 0, 13, 15, 23); invalid months = inputs only, never targets</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 139.724783)">Two stations without observed test months are excluded from evaluation</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 8.1px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263238" x="574.56" y="90.760636" transform="rotate(-0 574.56 90.760636)">1. Rainfall preprocessing</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(417.312 112.146346)">Daily PRECTOTCORR, 20 city coordinates, 1981–2025 → monthly</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(417.312 121.116346)">totals (540 months); no missing days, mask trivially true</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(417.312 130.086346)">Monthly totals reconciled with the source monthly files</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(417.312 139.318869)">(difference &lt; 0.05 mm); all 20 locations evaluated</text>
+   </g>
+   <g id="text_12">
+    <g id="patch_35">
+     <path d="M 18.144 206.628197 
+C 20.053462 206.628197 21.884975 205.869559 23.235169 204.519366 
+C 24.585363 203.169172 25.344 201.337659 25.344 199.428197 
+C 25.344 197.518734 24.585363 195.687222 23.235169 194.337028 
+C 21.884975 192.986834 20.053462 192.228197 18.144 192.228197 
+C 16.234538 192.228197 14.403025 192.986834 13.052831 194.337028 
+C 11.702637 195.687222 10.944 197.518734 10.944 199.428197 
+C 10.944 201.337659 11.702637 203.169172 13.052831 204.519366 
+C 14.403025 205.869559 16.234538 206.628197 18.144 206.628197 
+z
+" style="fill: #37474f"/>
+    </g>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="18.144" y="201.766087" transform="rotate(-0 18.144 201.766087)">2</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 5.2px; font-family: 'DejaVu Sans'; fill: #546e7a" transform="translate(19.494984 237.322477) rotate(-90)">indices</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 8.1px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263238" x="219.24" y="175.366538" transform="rotate(-0 219.24 175.366538)">2. Climate-index predictors with release latency</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 196.811005)">Niño3.4 (ERSST v5), DMI (HadISST), SOI (CRU), monthly</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 205.722247)">Row t holds only values known at the end of month t:</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 214.692247)">SST indices up to t − 1, SOI up to t</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 223.662247)">Anomaly baseline 1926–1960; standardised with pre-2010 data only</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 8.1px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263238" x="574.56" y="175.366538" transform="rotate(-0 574.56 175.366538)">2. Climate-index predictors with release latency</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(417.312 196.811005)">Niño3.4, Niño4, DMI, SOI, MJO RMM1, RMM2 (monthly means)</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(417.312 205.722247)">SST indices up to t − 1, SOI and RMM up to t</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(417.312 215.013529)">Niño anomalies re-referenced to 1981–1995 (causal baseline)</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(417.312 223.662247)">Standardised with pre-2013 data only</text>
+   </g>
+   <g id="text_18">
+    <g id="patch_36">
+     <path d="M 18.144 282.92459 
+C 20.053462 282.92459 21.884975 282.165953 23.235169 280.815759 
+C 24.585363 279.465565 25.344 277.634052 25.344 275.72459 
+C 25.344 273.815128 24.585363 271.983615 23.235169 270.633421 
+C 21.884975 269.283228 20.053462 268.52459 18.144 268.52459 
+C 16.234538 268.52459 14.403025 269.283228 13.052831 270.633421 
+C 11.702637 271.983615 10.944 273.815128 10.944 275.72459 
+C 10.944 277.634052 11.702637 279.465565 13.052831 280.815759 
+C 14.403025 282.165953 16.234538 282.92459 18.144 282.92459 
+z
+" style="fill: #37474f"/>
+    </g>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="18.144" y="278.062481" transform="rotate(-0 18.144 278.062481)">3</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 5.2px; font-family: 'DejaVu Sans'; fill: #546e7a" transform="translate(19.494984 328.315371) rotate(-90)">base models</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 8.1px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263238" x="219.24" y="252.418341" transform="rotate(-0 219.24 252.418341)">3. Base-model pool, rolling retraining</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 273.804051)">9 models per station: SARIMA, SVR, XGBoost, LSTM, GRU,</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 283.029566)">XGBoost-VMD, XGBoost-WT, LSTM-VMD, LSTM-WT</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 291.744051)">Initial training 1941–1960; refit every 5 years 1961–2021 (13×)</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 300.714051)">+ expanding and 30-year rolling climatologies → 11-member pool</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 309.684051)">Forecasts every month, h = 1, 3, 6, 12; VMD recomputed per origin — 21.3 min</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 8.1px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263238" x="574.56" y="252.418341" transform="rotate(-0 574.56 252.418341)">3. Base-model pool, rolling retraining</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(417.312 273.804051)">Same 9 models and hyperparameters</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(417.312 282.774051)">Initial training 1983–1995; refit every 5 years 1996–2021 (6×)</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(417.312 291.744051)">+ expanding and 20-year rolling climatologies → 11-member pool</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(417.312 300.714051)">Forecasts every month, h = 1, 3, 6, 12; decompositions causal — 10.6 min</text>
+   </g>
+   <g id="text_24">
+    <g id="patch_37">
+     <path d="M 18.144 381.127869 
+C 20.053462 381.127869 21.884975 380.369231 23.235169 379.019038 
+C 24.585363 377.668844 25.344 375.837331 25.344 373.927869 
+C 25.344 372.018407 24.585363 370.186894 23.235169 368.8367 
+C 21.884975 367.486506 20.053462 366.727869 18.144 366.727869 
+C 16.234538 366.727869 14.403025 367.486506 13.052831 368.8367 
+C 11.702637 370.186894 10.944 372.018407 10.944 373.927869 
+C 10.944 375.837331 11.702637 377.668844 13.052831 379.019038 
+C 14.403025 380.369231 16.234538 381.127869 18.144 381.127869 
+z
+" style="fill: #37474f"/>
+    </g>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="18.144" y="376.265759" transform="rotate(-0 18.144 376.265759)">4</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 5.2px; font-family: 'DejaVu Sans'; fill: #546e7a" transform="translate(19.494984 428.594587) rotate(-90)">meta-dataset</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 8.1px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263238" x="219.24" y="352.132439" transform="rotate(-0 219.24 352.132439)">4. Meta-dataset and per-network gates</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 373.518149)">Per (station, origin o, horizon h): E = 12-month scaled error history</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 382.488149)">(12 × 11, targets ≤ o − 1), member forecasts p, sin–cos month,</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 391.362196)">6 regime features, one-hot h, target — all divided by σ_station (pre-2010)</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 400.428149)">Split: meta-train 1962–2009 / validation 2010–2014 / test 2015–2025</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 409.398149)">Gates trained here: L-G3, L-G4 (local), GG3, GG4 (global), GG4-T (transfer) — 5.0 min</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 8.1px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263238" x="574.56" y="352.132439" transform="rotate(-0 574.56 352.132439)">4. Meta-dataset and per-network gates</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(417.312 373.518149)">Same meta-sample structure; 6 regime features = latest values</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(417.312 382.392196)">of the 6 indices; σ_station from pre-2013 data</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(417.312 391.458149)">Split: meta-train 1997–2012 / validation 2013–2017 / test 2018–2025</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(417.312 400.428149)">(sub-periods 2018–2021, 2022–2025)</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(417.312 409.714579)">Gates trained here: L-G3, L-G4, GG3, GG4, GG4-T — 2.8 min</text>
+   </g>
+   <g id="text_30">
+    <g id="patch_38">
+     <path d="M 18.144 509.547541 
+C 20.053462 509.547541 21.884975 508.788904 23.235169 507.43871 
+C 24.585363 506.088516 25.344 504.257003 25.344 502.347541 
+C 25.344 500.438079 24.585363 498.606566 23.235169 497.256372 
+C 21.884975 495.906178 20.053462 495.147541 18.144 495.147541 
+C 16.234538 495.147541 14.403025 495.906178 13.052831 497.256372 
+C 11.702637 498.606566 10.944 500.438079 10.944 502.347541 
+C 10.944 504.257003 11.702637 506.088516 13.052831 507.43871 
+C 14.403025 508.788904 16.234538 509.547541 18.144 509.547541 
+z
+" style="fill: #37474f"/>
+    </g>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="18.144" y="504.685432" transform="rotate(-0 18.144 504.685432)">5</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 5.2px; font-family: 'DejaVu Sans'; fill: #546e7a" transform="translate(19.494984 559.359947) rotate(-90)">harmonisation</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 8.1px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263238" x="393.12" y="469.976374" transform="rotate(-0 393.12 469.976374)">5. Harmonisation into one joint meta-dataset — 72,520 meta-samples, 35 stations</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 491.454677)">• Pool aligned by position: 9 base models + expanding climatology + windowed climatology (30 yr AU / 20 yr ID treated as one member type)</text>
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 500.614287)">• Regime features reduced to the 3 indices shared by both networks — Niño3.4, DMI, SOI — each kept standardised with its own region's pre-validation data (causal)</text>
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 509.654677)">• 6 static station features (sin lat, sin/cos lon, log annual rainfall, annual-harmonic amplitude, timing of wettest month) recomputed from pre-validation data, standardised over 35 stations</text>
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 518.754677)">• σ-scaling already makes E, p, y comparable across networks (150 mm/yr Woomera … 3,500 mm/yr Pontianak)</text>
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 527.854677)">• Time-split labels and row order kept per network, so the stage-4 gate predictions map onto the joint dataset by a row offset</text>
+   </g>
+   <g id="text_34">
+    <g id="patch_39">
+     <path d="M 18.144 634.190164 
+C 20.053462 634.190164 21.884975 633.431527 23.235169 632.081333 
+C 24.585363 630.731139 25.344 628.899626 25.344 626.990164 
+C 25.344 625.080702 24.585363 623.249189 23.235169 621.898995 
+C 21.884975 620.548801 20.053462 619.790164 18.144 619.790164 
+C 16.234538 619.790164 14.403025 620.548801 13.052831 621.898995 
+C 11.702637 623.249189 10.944 625.080702 10.944 626.990164 
+C 10.944 628.899626 11.702637 630.731139 13.052831 632.081333 
+C 14.403025 633.431527 16.234538 634.190164 18.144 634.190164 
+z
+" style="fill: #37474f"/>
+    </g>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="18.144" y="629.328055" transform="rotate(-0 18.144 629.328055)">6</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 5.2px; font-family: 'DejaVu Sans'; fill: #546e7a" transform="translate(19.494781 661.065695) rotate(-90)">gates</text>
+   </g>
+   <g id="text_36">
+    <text style="font-weight: 700; font-size: 8.1px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263238" x="272.16" y="590.841947" transform="rotate(-0 272.16 590.841947)">6. Gates — one shared architecture, 3 seeds each</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 6.6px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 611.949876)">LSTM-16 over E ⊕ p ⊕ month ⊕ 3 regime features ⊕ horizon [⊕ station embedding ⊕ static features]</text>
+    <text style="font-size: 6.6px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 620.67322)">→ dense-16 (ReLU, dropout 0.2) → logits [+ NNLS log-prior anchor] → softmax weights w → ŷ = Σ w·p</text>
+    <text style="font-size: 6.6px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 629.109876)">Adam 10⁻³, MSE on scaled targets, L2, early stopping (patience 30, region validation sets), batch 256</text>
+    <text style="font-size: 6.6px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 635.868689)"/>
+    <text style="font-size: 6.6px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 646.269876)">RG     region-only control: one region, harmonised 3-index features, embedding + static → isolates pooling from feature change</text>
+    <text style="font-size: 6.6px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 654.849876)">JG-E   joint gate, 35 stations, embedding + static                                            → analogue of GG3 on the pooled network</text>
+    <text style="font-size: 6.6px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 663.429876)">JG-S   joint gate, static features only (no embedding)                                       → applicable to unseen stations</text>
+    <text style="font-size: 6.6px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 672.009876)">LRO    leave-region-out: trained on one network only (no embedding, anchor from that network) → zero-shot on the other</text>
+    <text style="font-size: 6.6px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 680.589876)">Scale  LRO-type gates trained on k = 4, 8, 14, 28 random stations (5 draws), tested on 7 fixed holdout stations (3 AU + 4 ID)</text>
+    <text style="font-size: 6.6px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 689.169876)">22 configurations × 3 seeds — 3.0 min</text>
+   </g>
+   <g id="text_38">
+    <text style="font-weight: 700; font-size: 8.1px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263238" x="627.48" y="590.841947" transform="rotate(-0 627.48 590.841947)">Hypotheses fixed before the run</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(523.152 612.320251)">H1  JG-E ≥ RG in both regions</text>
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(523.152 621.420251)">     (pooling across networks does not hurt,</text>
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(523.152 630.520251)">     helps at ≥ 1 horizon per region)</text>
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(523.152 639.620251)">H2  LRO ≥ L-G3 of the target network</text>
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(523.152 648.720251)">     (zero-shot gate beats local gates)</text>
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(523.152 657.820251)">H3  LRO ≈ GG4-T of the target network</text>
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(523.152 666.920251)">     (exploratory)</text>
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(523.152 676.698376)">H4  holdout NSE rises with k</text>
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(523.152 685.120251)">     (exploratory)</text>
+   </g>
+   <g id="text_40">
+    <g id="patch_40">
+     <path d="M 18.144 773.940984 
+C 20.053462 773.940984 21.884975 773.182346 23.235169 771.832152 
+C 24.585363 770.481959 25.344 768.650446 25.344 766.740984 
+C 25.344 764.831521 24.585363 763.000009 23.235169 761.649815 
+C 21.884975 760.299621 20.053462 759.540984 18.144 759.540984 
+C 16.234538 759.540984 14.403025 760.299621 13.052831 761.649815 
+C 11.702637 763.000009 10.944 764.831521 10.944 766.740984 
+C 10.944 768.650446 11.702637 770.481959 13.052831 771.832152 
+C 14.403025 773.182346 16.234538 773.940984 18.144 773.940984 
+z
+" style="fill: #37474f"/>
+    </g>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="18.144" y="769.078874" transform="rotate(-0 18.144 769.078874)">7</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 5.2px; font-family: 'DejaVu Sans'; fill: #546e7a" transform="translate(19.494984 813.732827) rotate(-90)">evaluation</text>
+   </g>
+   <g id="text_42">
+    <text style="font-weight: 700; font-size: 8.1px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263238" x="272.16" y="732.858997" transform="rotate(-0 272.16 732.858997)">7. Evaluation — each network in its own test period, against its own benchmarks</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 754.244706)">Benchmarks: the stage-4 gates L-G3, L-G4, GG3, GG4, GG4-T · NNLS per station–horizon (pre-test)</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 763.214706)">   · simple mean · windowed climatology · best pre-test base model</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 772.184706)">Accuracy: NSE per station / horizon / period (AU 2015–2025, ID 2018–2025, each with two sub-periods), RMSE, MAE</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 781.154706)">Tests: DM-HLN per station–horizon, Holm within region (52 AU / 80 ID) · panel DM per region on cross-station mean</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 790.124706)">   loss differentials, Holm over 4 horizons, squared and absolute errors · wins / median MSE change</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 799.094706)">Scaling curve: holdout NSE vs k (mean ± sd over draws) vs L-G3 and GG4-T on the same stations</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 808.064706)">Weight composition of the joint gate per model family, network, and horizon</text>
+   </g>
+   <g id="text_44">
+    <text style="font-weight: 700; font-size: 8.1px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263238" x="627.48" y="732.858364" transform="rotate(-0 627.48 732.858364)">8. Outputs</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 6.8px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(523.152 754.152113)">regions/&lt;network&gt;/: raw and processed</text>
+    <text style="font-size: 6.8px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(523.152 763.303956)">   data, base models, meta-dataset,</text>
+    <text style="font-size: 6.8px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(523.152 771.832113)">   per-network gates</text>
+    <text style="font-size: 6.8px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(523.152 780.672113)">results/: the 22 cross-network gates,</text>
+    <text style="font-size: 6.8px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(523.152 789.41755)">   evaluation_results.json</text>
+    <text style="font-size: 6.8px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(523.152 798.352113)">reports/: Tables 1–4, Figures 1–4</text>
+    <text style="font-size: 6.8px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(523.152 807.583644)">notebooks/: executed notebook</text>
+    <text style="font-size: 6.8px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(523.152 816.690863)">README with the main results</text>
+   </g>
+   <g id="text_46">
+    <text style="font-weight: 700; font-size: 8.1px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #263238" x="393.12" y="855.23539" transform="rotate(-0 393.12 855.23539)">Anti-leakage guarantees carried through every stage</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 876.6211)">Inputs precede the forecast origin (release latency, causal VMD/wavelet, error history ≤ o − 1) · σ, climatologies, static features, and index standardisation from pre-validation data only</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 885.5911)">NNLS anchors of LRO / scaling gates from training stations only · holdout stations never in training or validation · no hyperparameter tuned on any test period</text>
+    <text style="font-size: 6.9px; font-family: 'DejaVu Sans'; fill: #263238" transform="translate(54.432 894.5611)">Each test period touched once per configuration · hypotheses written down before the first gate was trained</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf503733e6d">
+   <rect x="0" y="0" width="756" height="921.6"/>
+  </clipPath>
+ </defs>
+</svg>
