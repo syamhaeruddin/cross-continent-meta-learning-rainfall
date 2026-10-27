@@ -1,6 +1,8 @@
-# Runs all gate trainings in parallel from the command line (existing output files are skipped), then the evaluation and the report.
-#   python src/run_all.py gates     -> RG x2, JG-E, JG-S, LRO x2, scaling curve (4 k x 5 draws; k=28 has one draw)
-#   python src/run_all.py all       -> gates + evaluate + report
+# Runs the experiment from the command line. Existing output files are skipped, so a run can be resumed.
+#   python src/run_all.py regions   -> stages 1-4 for both networks (preprocessing, indices, base models, meta-dataset, per-network gates)
+#   python src/run_all.py joint     -> stage 5 (harmonisation) + stage 6 (RG x2, JG-E, JG-S, LRO x2, scaling curve)
+#   python src/run_all.py gates     -> stage 6 only
+#   python src/run_all.py all       -> stages 1-8 end to end
 # The number of parallel processes is set with the environment variable WORKERS (default 6).
 import os, sys, subprocess, time
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -30,7 +32,12 @@ def run(jobs):
 
 if __name__ == "__main__":
     what = sys.argv[1] if len(sys.argv) > 1 else "all"
-    run(jobs)
+    if what in ("regions", "all"):
+        subprocess.run([PY, os.path.join(SRC, "run_regions.py")], check=True)
+    if what in ("joint", "gates", "all"):
+        if not os.path.exists(os.path.join(os.path.dirname(SRC), "data", "joint", "meta_joint.npz")) or what != "gates":
+            subprocess.run([PY, os.path.join(SRC, "harmonise.py")], check=True)
+        run(jobs)
     if what == "all":
         subprocess.run([PY, os.path.join(SRC, "evaluate.py")], check=True)
         subprocess.run([PY, os.path.join(SRC, "report.py")], check=True)

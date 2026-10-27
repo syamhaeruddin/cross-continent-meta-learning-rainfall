@@ -1,6 +1,6 @@
-# Stage 1: harmonise the two meta-datasets into one joint meta-dataset (data/joint/meta_joint.npz).
+# Stage 5: harmonise the two per-network meta-datasets into one joint meta-dataset (data/joint/meta_joint.npz).
 #   python src/harmonise.py
-# Per meta-sample (station s, origin o, horizon h) the source repositories store E (12 x 11 scaled error history), P (11 member forecasts,
+# Per meta-sample (station s, origin o, horizon h) stage 4 of each network stores E (12 x 11 scaled error history), P (11 member forecasts,
 # scaled), y (scaled target), ok (valid target), SC (sigma_s), Mo (sin-cos of target month), Rg (6 regime features), H (one-hot horizon),
 # T (target month index in the region's calendar), j (horizon index), st (station index in the region). Harmonisation:
 #   * the 11-member pool is aligned by position (9 base models + expanding climatology + windowed climatology: 30 years AU, 20 years ID);
@@ -9,7 +9,7 @@
 #   * the six static station features are recomputed from the raw monthly series (pre-validation data of each region only) and
 #     standardised across all 35 stations;
 #   * the time split (0 meta-training, 1 validation, 2 test) stays that of the region; station indices become global (0..34);
-#   * rows keep the order of the source meta-datasets, so the stored prediction indices (idx) of the source gates map with a row offset.
+#   * rows keep the order of the per-network meta-datasets, so the prediction indices (idx) of the per-network gates map with a row offset.
 import os, sys, json
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from common import *
@@ -17,11 +17,11 @@ from common import *
 os.makedirs(DATA_JOINT, exist_ok=True)
 parts = []; stations = []; region_of = []; static_raw = []; offsets = {}; row0 = 0; src_pools = {}
 for r in REGION_LIST:
-    cfg = REGIONS[r]; din = os.path.join(DATA_INPUT, r)
-    Z = np.load(os.path.join(din, "meta_dataset.npz"), allow_pickle=False)
+    cfg = REGIONS[r]
+    Z = np.load(os.path.join(region_results(r), "meta_dataset.npz"), allow_pickle=False)
     sts = [str(s) for s in Z["stations"]]; pool = [str(p) for p in Z["pool"]]; src_pools[r] = pool
     assert pool[:NB] == POOL[:NB] and pool[NB] == "Clim-expanding" and pool[NB + 1] == cfg["clim_window"], pool
-    MON = json.load(open(os.path.join(din, cfg["monthly"])))["stations"]
+    MON = json.load(open(os.path.join(region_processed(r), cfg["monthly"])))["stations"]
     n = len(Z["y"]); offsets[r] = row0
     T = Z["T"]; split = np.where(T < cfg["VA0"], 0, np.where(T < cfg["TE0"], 1, 2))
     parts.append(dict(E=Z["E"].astype(np.float32), P=Z["P"].astype(np.float32), y=Z["y"].astype(np.float32), ok=Z["ok"].astype(bool),

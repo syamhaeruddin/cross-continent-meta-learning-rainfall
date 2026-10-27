@@ -1,0 +1,86 @@
+{
+  "prepared_utc": "2026-10-26T05:36:52.792128+00:00",
+  "sources": [
+    {
+      "file": "nino.txt",
+      "url": "https://www.cpc.ncep.noaa.gov/data/indices/ersst5.nino.mth.91-20.ascii",
+      "sha256": "bedcd0683c07f7ccb2ae358a90cb39d57413dcc8881027e0c30a1811f6d58012",
+      "used": true
+    },
+    {
+      "file": "dmi.txt",
+      "url": "https://psl.noaa.gov/gcos_wgsp/Timeseries/Data/dmi.had.long.data",
+      "sha256": "42c1000e221addacac4451b8b9ddfbc5ee732b99ee69b0be5105e69ebe881e05",
+      "used": true
+    },
+    {
+      "file": "soi.txt",
+      "url": "https://crudata.uea.ac.uk/cru/data/soi/soi_3dp.dat",
+      "sha256": "0a452042abc6e3ab9e380c3ca021eedfd2b0337f1cf28ea029c564b4f2143897",
+      "used": true
+    },
+    {
+      "file": "rmm_current.txt",
+      "url": "https://www.bom.gov.au/clim_data/IDCKGEM000/rmm.74toRealtime.txt",
+      "sha256": "3a93f08bf2cd48cda3b882f4c2d5adf8eb96a9ff37c54a9137a1e102bfae1950",
+      "used": true
+    },
+    {
+      "file": "rmm.txt",
+      "url": "https://www.bom.gov.au/climate/mjo/graphics/rmm.74toRealtime.txt",
+      "sha256": "4e5757c7104ca3063a051bb6fa8f7ffd56e81a01bcc3b67c0fe4bf720761af11",
+      "used": false
+    }
+  ],
+  "coverage": [
+    {
+      "indeks": "nino34_anom_C",
+      "bulan_total": 540,
+      "bulan_valid": 540,
+      "bulan_missing": 0,
+      "awal_valid": "1981-01",
+      "akhir_valid": "2025-12"
+    },
+    {
+      "indeks": "nino4_anom_C",
+      "bulan_total": 540,
+      "bulan_valid": 540,
+      "bulan_missing": 0,
+      "awal_valid": "1981-01",
+      "akhir_valid": "2025-12"
+    },
+    {
+      "indeks": "dmi_hadisst_C",
+      "bulan_total": 540,
+      "bulan_valid": 540,
+      "bulan_missing": 0,
+      "awal_valid": "1981-01",
+      "akhir_valid": "2025-12"
+    },
+    {
+      "indeks": "soi_cru",
+      "bulan_total": 540,
+      "bulan_valid": 540,
+      "bulan_missing": 0,
+      "awal_valid": "1981-01",
+      "akhir_valid": "2025-12"
+    },
+    {
+      "indeks": "rmm1_mean",
+      "bulan_total": 540,
+      "bulan_valid": 540,
+      "bulan_missing": 0,
+      "awal_valid": "1981-01",
+      "akhir_valid": "2025-12"
+    },
+    {
+      "indeks": "rmm2_mean",
+      "bulan_total": 540,
+      "bulan_valid": 540,
+      "bulan_missing": 0,
+      "awal_valid": "1981-01",
+      "akhir_valid": "2025-12"
+    }
+  ],
+  "mjo_incomplete_months": []
+}

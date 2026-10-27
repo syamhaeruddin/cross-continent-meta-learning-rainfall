@@ -1,8 +1,9 @@
-# Constants, file locations, and shared functions for the cross-continent gate experiment.
-# The experiment reuses the meta-datasets and stored gate predictions of two published repositories:
-#   Australia  : cross-station-meta-learning-monthly-rainfall      (SILO, 15 stations, 1926-2025)
-#   Indonesia  : cross-station-meta-learning-indonesia-rainfall    (NASA POWER, 20 locations, 1981-2025)
-# No base model is retrained here; only meta-learner gates are trained on the pooled meta-samples.
+# Constants, file locations, and shared functions for the cross-network gate experiment.
+# The whole pipeline runs inside this repository, from the raw rainfall records to the reported tables and figures:
+#   stages 1-4 per network, under regions/<region>/ (src/run_regions.py), for
+#     Australia : SILO rain gauges, 15 stations, 1926-2025
+#     Indonesia : NASA POWER grid, 20 locations, 1981-2025
+#   stages 5-8 on the pooled meta-samples of both networks (src/harmonise.py, gates.py, evaluate.py, report.py).
 import os
 for v in ["OMP_NUM_THREADS", "OPENBLAS_NUM_THREADS", "MKL_NUM_THREADS", "TF_NUM_INTRAOP_THREADS", "TF_NUM_INTEROP_THREADS"]:
     os.environ[v] = "1"
@@ -13,31 +14,36 @@ from scipy import stats
 
 SRC = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(SRC)
-DATA_INPUT = os.path.join(ROOT, "data", "input")     # copies of the source repositories' outputs (not committed)
-DATA_JOINT = os.path.join(ROOT, "data", "joint")     # harmonised joint meta-dataset
+REGIONS_DIR = os.path.join(ROOT, "regions")          # per-network data and results (stages 1-4)
+DATA_JOINT = os.path.join(ROOT, "data", "joint")     # harmonised joint meta-dataset (stage 5)
 OUT = os.environ.get("OUT_DIR", os.path.join(ROOT, "results")); os.makedirs(OUT, exist_ok=True)
 REPORTS = os.path.join(ROOT, "reports")
 HORIZONS = [1, 3, 6, 12]
 
-# Region settings. Month indices (N, VA0, TE0, SPLIT) refer to each region's own calendar, as in the source repositories.
+# Region settings. Month indices (N, VA0, TE0, SPLIT) refer to each network's own calendar.
 REGIONS = {
- "australia": dict(label="Australia (SILO)", repo="cross-station-meta-learning-monthly-rainfall", monthly="monthly_15.json",
+ "australia": dict(label="Australia (SILO)", monthly="monthly_15.json",
                    year0=1926, N=1200, VA0=1008, TE0=1068, SPLIT=1140, clim_window="Clim-30yr",
-                   rg_cols=[0, 1, 2],                       # Rg of the source meta-dataset: [nino34, dmi, soi, nino34 3-mo mean, nino34 trend, dmi 3-mo mean]
-                   exclude=["Coffs_Harbour", "Melbourne"],  # no observed months in the test period (as in the source study)
+                   rg_cols=[0, 1, 2],                       # Rg of the network meta-dataset: [nino34, dmi, soi, nino34 3-mo mean, nino34 trend, dmi 3-mo mean]
+                   exclude=["Coffs_Harbour", "Melbourne"],  # no observed months in the test period
                    periods={"2015-2025": (1068, 1200), "2015-2020": (1068, 1140), "2021-2025": (1140, 1200)},
-                   holdout=["Darwin", "Brisbane", "Woomera"]),                   # transfer fold 0 of the source study
- "indonesia": dict(label="Indonesia (NASA POWER)", repo="cross-station-meta-learning-indonesia-rainfall", monthly="monthly_20.json",
+                   holdout=["Darwin", "Brisbane", "Woomera"]),                   # transfer fold 0 of the Australian network
+ "indonesia": dict(label="Indonesia (NASA POWER)", monthly="monthly_20.json",
                    year0=1981, N=540, VA0=384, TE0=444, SPLIT=492, clim_window="Clim-20yr",
-                   rg_cols=[0, 2, 3],                       # Rg of the source meta-dataset: [nino34, nino4, dmi, soi, rmm1, rmm2]
+                   rg_cols=[0, 2, 3],                       # Rg of the network meta-dataset: [nino34, nino4, dmi, soi, rmm1, rmm2]
                    exclude=[],
                    periods={"2018-2025": (444, 540), "2018-2021": (444, 492), "2022-2025": (492, 540)},
-                   holdout=["Banda_Aceh", "Jakarta", "Banjarmasin", "Ambon"]),  # transfer fold 0 of the source study
+                   holdout=["Banda_Aceh", "Jakarta", "Banjarmasin", "Ambon"]),  # transfer fold 0 of the Indonesian network
 }
 REGION_LIST = ["australia", "indonesia"]
 REGIME = ["nino34", "dmi", "soi"]      # the three indices available in both regions
 POOL = ["SARIMA", "SVR", "XGBoost", "XGBoost-VMD", "XGBoost-WT", "LSTM", "GRU", "LSTM-VMD", "LSTM-WT", "Clim-expanding", "Clim-window"]
 NB = 9                                 # number of base models (the two climatologies follow)
+
+
+def region_root(region): return os.path.join(REGIONS_DIR, region)
+def region_results(region): return os.path.join(REGIONS_DIR, region, "results")
+def region_processed(region): return os.path.join(REGIONS_DIR, region, "data", "processed")
 
 
 def metrics(a, p):

@@ -1,5 +1,5 @@
-# Stage 2: meta-learner gates trained on the harmonised joint meta-dataset. Architecture and hyperparameters are those of the
-# source studies (LSTM-16 over the error history, softmax weights, Adam 1e-3, MSE on scaled targets, L2, early stopping, 3 seeds).
+# Stage 6: meta-learner gates trained on the harmonised joint meta-dataset. One shared architecture (LSTM-16 over the error
+# history, softmax weights, Adam 1e-3, MSE on scaled targets, L2, early stopping, 3 seeds), identical to the per-network gates of stage 4.
 # Usage:
 #   python src/gates.py region <australia|indonesia>   -> RG: region-only gate with embedding + static features (control for the
 #                                                         change from 6 to 3 regime features)            -> results/pred_rg_<region>.npz

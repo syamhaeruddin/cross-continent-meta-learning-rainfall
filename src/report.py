@@ -1,4 +1,4 @@
-# Stage 4: tables (CSV) and figures (PNG) of the experiment, from results/evaluation_results.json.
+# Stage 8: tables (CSV) and figures (PNG) of the experiment, from results/evaluation_results.json.
 #   python src/report.py
 import os, sys, json
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))

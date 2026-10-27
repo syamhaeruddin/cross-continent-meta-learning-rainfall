@@ -1,4 +1,4 @@
-# Stage 3: evaluation of the joint, region-only, and leave-region-out gates against the stored gates and static benchmarks of each region;
+# Stage 7: evaluation of the joint, region-only, and leave-region-out gates against the per-network gates and static benchmarks of each region;
 # per-station DM tests (Holm within region), panel DM tests per region (squared and absolute errors), scaling curve, weight composition.
 # Writes results/evaluation_results.json.
 #   python src/evaluate.py
@@ -13,7 +13,7 @@ n = len(y); split = D["split"]; offs = {r: int(D["row_offset"][i]) for i, r in e
 region_sts = {r: [s for s, rr in zip(sts, D["region_of_station"]) if rr == r] for r in REGION_LIST}
 eval_sts = {r: [s for s in region_sts[r] if s not in REGIONS[r]["exclude"]] for r in REGION_LIST}
 
-# ---- static benchmarks, recomputed from the joint meta-dataset (identical definitions to the source studies)
+# ---- static benchmarks, recomputed from the joint meta-dataset (same definitions as in the per-network studies)
 PRED = {"Clim-window": P[:, M - 1].astype(float), "Clim-expanding": P[:, M - 2].astype(float), "Mean": P[:, :NB].mean(1).astype(float)}
 NN = np.full(n, np.nan); best = np.full(n, np.nan); W_NNLS = {}
 for si in range(len(sts)):
@@ -25,9 +25,9 @@ PRED["NNLS"] = NN; PRED["Best model"] = best
 
 def put(name, idx, arr):
     full = PRED.setdefault(name, np.full(n, np.nan)); full[idx] = arr.mean(0)
-# ---- stored gates of the source studies (row indices shifted by the region offset)
+# ---- per-network gates from stage 4 (row indices shifted by the region offset)
 for r in REGION_LIST:
-    din = os.path.join(DATA_INPUT, r); o = offs[r]
+    din = region_results(r); o = offs[r]
     for f in glob.glob(os.path.join(din, "pred_local_*.npz")):
         Z = np.load(f)
         for nm in ["L-G3", "L-G4"]: put(nm, Z["idx"] + o, Z[nm])

@@ -1,6 +1,6 @@
-data/input/
 __pycache__/
 *.log
+regions/*/log/
 results/log_*.txt
 *.ps1
 .ipynb_checkpoints/

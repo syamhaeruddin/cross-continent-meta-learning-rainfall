@@ -1,0 +1,203 @@
+{
+  "lokasi": "Kupang",
+  "latitude": -10.1772,
+  "longitude": 123.607,
+  "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=PRECTOTCORR%2CT2M%2CT2M_MAX%2CT2M_MIN%2CRH2M%2CQV2M%2CT2MDEW%2CPS%2CWS2M%2CWS10M%2CWD10M%2CALLSKY_SFC_SW_DWN&community=AG&latitude=-10.1772&longitude=123.607&start=19810101&end=20251231&format=JSON&time-standard=LST",
+  "retrieved_utc": "2026-10-25T07:40:46.685263+00:00",
+  "header": {
+    "title": "NASA/POWER Source Native Resolution Daily Data",
+    "api": {
+      "version": "v2.10.1",
+      "name": "POWER Daily API"
+    },
+    "sources": [
+      "MERRA2",
+      "SRB",
+      "POWER"
+    ],
+    "fill_value": -999.0,
+    "time_standard": "LST",
+    "start": "19810101",
+    "end": "20251231"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      123.607,
+      -10.177,
+      188.78
+    ]
+  },
+  "parameters": {
+    "PRECTOTCORR": {
+      "units": "mm/day",
+      "longname": "Precipitation Corrected"
+    },
+    "T2M": {
+      "units": "C",
+      "longname": "Temperature at 2 Meters"
+    },
+    "T2M_MAX": {
+      "units": "C",
+      "longname": "Temperature at 2 Meters Maximum"
+    },
+    "T2M_MIN": {
+      "units": "C",
+      "longname": "Temperature at 2 Meters Minimum"
+    },
+    "RH2M": {
+      "units": "%",
+      "longname": "Relative Humidity at 2 Meters"
+    },
+    "QV2M": {
+      "units": "g/kg",
+      "longname": "Specific Humidity at 2 Meters"
+    },
+    "T2MDEW": {
+      "units": "C",
+      "longname": "Dew/Frost Point at 2 Meters"
+    },
+    "PS": {
+      "units": "kPa",
+      "longname": "Surface Pressure"
+    },
+    "WS2M": {
+      "units": "m/s",
+      "longname": "Wind Speed at 2 Meters"
+    },
+    "WS10M": {
+      "units": "m/s",
+      "longname": "Wind Speed at 10 Meters"
+    },
+    "WD10M": {
+      "units": "Degrees",
+      "longname": "Wind Direction at 10 Meters"
+    },
+    "ALLSKY_SFC_SW_DWN": {
+      "units": "MJ/m^2/day",
+      "longname": "All Sky Surface Shortwave Downward Irradiance"
+    }
+  },
+  "coverage": [
+    [
+      "Kupang",
+      "PRECTOTCORR",
+      "mm/day",
+      16436,
+      16436,
+      0,
+      "1981-01-01",
+      "2025-12-31"
+    ],
+    [
+      "Kupang",
+      "T2M",
+      "C",
+      16436,
+      16436,
+      0,
+      "1981-01-01",
+      "2025-12-31"
+    ],
+    [
+      "Kupang",
+      "T2M_MAX",
+      "C",
+      16436,
+      16436,
+      0,
+      "1981-01-01",
+      "2025-12-31"
+    ],
+    [
+      "Kupang",
+      "T2M_MIN",
+      "C",
+      16436,
+      16436,
+      0,
+      "1981-01-01",
+      "2025-12-31"
+    ],
+    [
+      "Kupang",
+      "RH2M",
+      "%",
+      16436,
+      16436,
+      0,
+      "1981-01-01",
+      "2025-12-31"
+    ],
+    [
+      "Kupang",
+      "QV2M",
+      "g/kg",
+      16436,
+      16436,
+      0,
+      "1981-01-01",
+      "2025-12-31"
+    ],
+    [
+      "Kupang",
+      "T2MDEW",
+      "C",
+      16436,
+      16436,
+      0,
+      "1981-01-01",
+      "2025-12-31"
+    ],
+    [
+      "Kupang",
+      "PS",
+      "kPa",
+      16436,
+      16436,
+      0,
+      "1981-01-01",
+      "2025-12-31"
+    ],
+    [
+      "Kupang",
+      "WS2M",
+      "m/s",
+      16436,
+      16436,
+      0,
+      "1981-01-01",
+      "2025-12-31"
+    ],
+    [
+      "Kupang",
+      "WS10M",
+      "m/s",
+      16436,
+      16436,
+      0,
+      "1981-01-01",
+      "2025-12-31"
+    ],
+    [
+      "Kupang",
+      "WD10M",
+      "Degrees",
+      16436,
+      16436,
+      0,
+      "1981-01-01",
+      "2025-12-31"
+    ],
+    [
+      "Kupang",
+      "ALLSKY_SFC_SW_DWN",
+      "MJ/m^2/day",
+      16436,
+      15341,
+      1095,
+      "1984-01-01",
+      "2025-12-31"
+    ]
+  ]
+}
