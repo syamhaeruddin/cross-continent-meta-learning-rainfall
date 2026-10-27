@@ -1,4 +1,4 @@
-# Stage 8: tables (CSV) and figures (PNG) of the experiment, from results/evaluation_results.json.
+﻿# Stage 8: tables (CSV) and figures (PNG) of the experiment, from results/evaluation_results.json.
 #   python src/report.py
 import os, sys, json
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -67,7 +67,7 @@ axs[1].legend(fontsize=6.5, ncol=2, loc="lower left"); fig.tight_layout(); fig.s
 
 # Figure 2: MSE change (%) of LRO vs L-G3 per station and horizon, per region
 fig, axs = plt.subplots(1, 2, figsize=(9, 4.4), gridspec_kw={"width_ratios": [13, 20]})
-fig.suptitle("Leave-region-out gate (trained on the other continent) vs local gate L-G3: MSE reduction (%)", fontsize=8.5)
+fig.suptitle("Leave-region-out gate (trained on the other network) vs local gate L-G3: MSE reduction (%)", fontsize=8.5)
 for ax, r in zip(axs, REGION_LIST):
     key = "LRO vs L-G3"; rows_ = R["dm"][r].get(key, []); stl = R["stations"][r]
     Mx = np.full((4, len(stl)), np.nan); Sg = np.zeros((4, len(stl)), bool)
